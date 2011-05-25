@@ -1,0 +1,307 @@
+Temhurmu
+v7
+r0
+t311958179.296749
+cCheck dependencies
+cProcessInfoPlistFile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/Info.plist emhurmu-Info.plist
+cCompileXIB /Users/gleb/apps/iphone/emhurmu/MainWindow.xib
+cCompileXIB /Users/gleb/apps/iphone/emhurmu/SecondView.xib
+cCompileXIB /Users/gleb/apps/iphone/emhurmu/FirstView.xib
+cCpResource build/Debug-iphonesimulator/emhurmu.app/hurma1.png hurma1.png
+cProcessPCH /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch.gch emhurmu_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/main.o /Users/gleb/apps/iphone/emhurmu/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmuAppDelegate.o /Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/FirstViewController.o /Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu normal i386
+cGenerateDSYMFile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app.dSYM /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu
+cTouch /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C81265F0000000000000132
+t1283532383
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.h
+c000000004CE5AC37000000000000017C
+t1290120247
+s380
+i<UIKit/UIKit.h>
+
+N/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m
+c000000004CE5AC13000000000000067A
+t1290120211
+s1658
+i"FirstViewController.h"
+
+N/Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.h
+c000000004CE5AC3000000000000001DD
+t1290120240
+s477
+i<UIKit/UIKit.h>
+
+N/Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m
+c000000004CE5AC2A0000000000000C39
+t1290120234
+s3129
+i"emhurmuAppDelegate.h"
+
+N/Users/gleb/apps/iphone/emhurmu/FirstView.xib
+c000000004CE5A2FB000000000000471F
+t1290117883
+s18207
+
+N/Users/gleb/apps/iphone/emhurmu/MainWindow.xib
+c000000004CE5A88A0000000000006AA8
+t1290119306
+s27304
+
+N/Users/gleb/apps/iphone/emhurmu/SecondView.xib
+c000000004CE5A8A300000000000037E8
+t1290119331
+s14312
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app
+t1290206741
+s306
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app.dSYM
+t1290206741
+s102
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/FirstView.nib
+t1290118567
+s1530
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/Info.plist
+t1289071873
+s591
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/MainWindow.nib
+t1290119312
+s1711
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/PkgInfo
+t1289071873
+s8
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/SecondView.nib
+t1290119332
+s764
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu
+t1290206741
+s17264
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/hurma.png
+t2
+s0
+
+N/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/hurma1.png
+t1290118566
+s66636
+
+N/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/FirstViewController.o
+t1290206741
+s35084
+
+N/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmu.LinkFileList
+c000000004CD5AD010000000000000176
+t1289071873
+s374
+
+N/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmuAppDelegate.o
+t1290206741
+s51104
+
+N/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/main.o
+t1289071875
+s6288
+
+N/Users/gleb/apps/iphone/emhurmu/emhurmu_Prefix.pch
+c000000004CD5AB5600000000000000B7
+t1289071446
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gleb/apps/iphone/emhurmu/hurma.png
+c000000004CD2A3FC0000000000010714
+t1288872956
+s67348
+
+N/Users/gleb/apps/iphone/emhurmu/hurma1.png
+c000000004CE5A2BE000000000001044C
+t1290117822
+s66636
+
+N/Users/gleb/apps/iphone/emhurmu/main.m
+c000000004CD5AB56000000000000016B
+t1289071446
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch.gch
+t1289071875
+s15232016
+
+Nemhurmu-Info.plist
+c000000004CD5AB56000000000000038D
+t1289071446
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311958179#311958179#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/FirstViewController.o /Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311899538.592789
+e311899541.005632
+r1
+xCompileC
+xbuild/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/FirstViewController.o
+x/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires method '-hurmaImageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires the method 'setHurmaImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@69"Compile /Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m311899538#311899541#0(431"/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires method '-hurmaImageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires the method 'setHurmaImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@136"Property 'hurmaImageView' requires method '-hurmaImageView' to be defined - use @synthesize, @dynamic or provide a method implementation311899539#0#212#0(6@61"/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m311813011#70#0#70#0#0"0(22@143"Property 'hurmaImageView' requires the method 'setHurmaImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation311899539#212#219#0(6@61"/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m311813011#70#0#70#0#0"0(0#0#61"/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m8598201856#1862"    cd /Users/gleb/apps/iphone/emhurmu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-generated-files.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-own-target-headers.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-all-target-headers.hmap -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-project-headers.hmap -F/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -I/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/include -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources/i386 -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources -include /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch -c /Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m -o /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmuAppDelegate.o /Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311899538.535350
+e311899541.021308
+r1
+xCompileC
+xbuild/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmuAppDelegate.o
+x/Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m311899538#311899541#0(0"0(0#0#60"/Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m8247613111657260032#1860"    cd /Users/gleb/apps/iphone/emhurmu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-generated-files.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-own-target-headers.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-all-target-headers.hmap -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-project-headers.hmap -F/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -I/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/include -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources/i386 -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources -include /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch -c /Users/gleb/apps/iphone/emhurmu/Classes/emhurmuAppDelegate.m -o /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmuAppDelegate.o0#
+
+CCompileC build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/main.o /Users/gleb/apps/iphone/emhurmu/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310764675.621693
+e310764675.773626
+r1
+xCompileC
+xbuild/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/main.o
+x/Users/gleb/apps/iphone/emhurmu/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/gleb/apps/iphone/emhurmu/main.m310764675#310764675#0(0"0(0#0#38"/Users/gleb/apps/iphone/emhurmu/main.m8611048640#1824"    cd /Users/gleb/apps/iphone/emhurmu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-generated-files.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-own-target-headers.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-all-target-headers.hmap -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-project-headers.hmap -F/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -I/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/include -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources/i386 -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources -include /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch -c /Users/gleb/apps/iphone/emhurmu/main.m -o /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/gleb/apps/iphone/emhurmu/FirstView.xib
+s311811366.413304
+e311811367.245827
+r1
+xCompileXIB
+x/Users/gleb/apps/iphone/emhurmu/FirstView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB FirstView.xib311811366#311811367#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#45"/Users/gleb/apps/iphone/emhurmu/FirstView.xib30681262095401064#547"    cd /Users/gleb/apps/iphone/emhurmu    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/FirstView.nib /Users/gleb/apps/iphone/emhurmu/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/gleb/apps/iphone/emhurmu/MainWindow.xib
+s311812112.363774
+e311812112.781000
+r1
+xCompileXIB
+x/Users/gleb/apps/iphone/emhurmu/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311812112#311812112#0(0"0(0#0#46"/Users/gleb/apps/iphone/emhurmu/MainWindow.xib8612795712#549"    cd /Users/gleb/apps/iphone/emhurmu    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/MainWindow.nib /Users/gleb/apps/iphone/emhurmu/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/gleb/apps/iphone/emhurmu/SecondView.xib
+s311812132.551189
+e311812132.926104
+r1
+xCompileXIB
+x/Users/gleb/apps/iphone/emhurmu/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib311812132#311812132#0(0"0(0#0#46"/Users/gleb/apps/iphone/emhurmu/SecondView.xib8612172864#549"    cd /Users/gleb/apps/iphone/emhurmu    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/SecondView.nib /Users/gleb/apps/iphone/emhurmu/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/emhurmu.app/hurma.png hurma.png
+r0
+
+CCpResource build/Debug-iphonesimulator/emhurmu.app/hurma1.png hurma1.png
+s311811366.485922
+e311811366.531600
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/emhurmu.app/hurma1.png
+xhurma1.png
+lSLF07#2@15"Copy hurma1.png311811366#311811366#0(0"0(0#0#42"/Users/gleb/apps/iphone/emhurmu/hurma1.png8612974528#433"    cd /Users/gleb/apps/iphone/emhurmu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/gleb/apps/iphone/emhurmu/hurma1.png /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app0#
+
+CGenerateDSYMFile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app.dSYM /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu
+s311899541.208454
+e311899541.382822
+r1
+xGenerateDSYMFile
+x/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app.dSYM
+x/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/emhurmu.app.dSYM build/Debug-iphonesimulator/emhurmu.app/emhurmu311899541#311899541#0(0"0(0#0#79"/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu8605306208#362"    cd /Users/gleb/apps/iphone/emhurmu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu -o /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app.dSYM0#
+
+CLd /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu normal i386
+s311899541.021392
+e311899541.208354
+r1
+xLd
+x/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu
+xnormal
+xi386
+lSLF07#2@84"Link /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu311899541#311899541#0(0"0(0#0#0"8605659872#865"    cd /Users/gleb/apps/iphone/emhurmu    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -F/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -filelist /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/Objects-normal/i386/emhurmu.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/emhurmu0#
+
+CProcessInfoPlistFile /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/Info.plist emhurmu-Info.plist
+s310764673.591130
+e310764673.651989
+r1
+xProcessInfoPlistFile
+x/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/Info.plist
+xemhurmu-Info.plist
+lSLF07#2@26"Process emhurmu-Info.plist310764673#310764673#0(0"0(0#0#50"/Users/gleb/apps/iphone/emhurmu/emhurmu-Info.plist30399800003068008#458"    cd /Users/gleb/apps/iphone/emhurmu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility emhurmu-Info.plist -genpkginfo /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app/Info.plist0#
+
+CProcessPCH /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch.gch emhurmu_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310764674.599328
+e310764675.621419
+r1
+xProcessPCH
+x/var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch.gch
+xemhurmu_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile emhurmu_Prefix.pch310764674#310764675#0(0"0(0#0#50"/Users/gleb/apps/iphone/emhurmu/emhurmu_Prefix.pch8611123392#1723"    cd /Users/gleb/apps/iphone/emhurmu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-generated-files.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-own-target-headers.hmap -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-all-target-headers.hmap -iquote /Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/emhurmu-project-headers.hmap -F/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator -I/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/include -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources/i386 -I/Users/gleb/apps/iphone/emhurmu/build/emhurmu.build/Debug-iphonesimulator/emhurmu.build/DerivedSources -c /Users/gleb/apps/iphone/emhurmu/emhurmu_Prefix.pch -o /var/folders/ld/ld8tHUL7GcuAH2QEB175LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/emhurmu_Prefix-cjllvmtbaebrbtaaawvzvstmzval/emhurmu_Prefix.pch.gch0#
+
+CTouch /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app
+s311899541.382924
+e311899541.390830
+r1
+xTouch
+x/Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app
+lSLF07#2@77"Touch /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app311899541#311899541#0(0"0(0#0#0"8601466176#264"    cd /Users/gleb/apps/iphone/emhurmu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gleb/apps/iphone/emhurmu/build/Debug-iphonesimulator/emhurmu.app0#
+

@@ -1,0 +1,2 @@
+/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires method '-hurmaImageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/gleb/apps/iphone/emhurmu/Classes/FirstViewController.m:70: warning: property 'hurmaImageView' requires the method 'setHurmaImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
